@@ -10,9 +10,6 @@ helm repo add bitnami https://charts.bitnami.com/bitnami
 helm install my-release bitnami/keycloa
 ```
 
-
-
-
 ## Setup Keycloak Realm + Client
 1. Login at Keycloak as admin
 
